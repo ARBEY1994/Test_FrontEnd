@@ -36,12 +36,12 @@ export default function Navbar() {
         </span>
       </div>
 
-      <div className=" bg-gray w-[2em] h-[1.8em] absolute text-2xl ml-[65%] -mt-[1.7em] bg-[#2F363D] rounded-[12px] ">
+      <div className=" bg-gray w-[2em] h-[1.8em] absolute text-2xl ml-[65%] -mt-[1.7em] bg-[#2F363D] rounded-[12px] xl:ml-[68%]">
         <span className="material-symbols-outlined text-[#13B497]  ml-3 mt-2 ">
           notifications_active
         </span>
       </div>
-      <div className="hidden  bg-gray w-[2em] h-[1.8em] absolute text-2xl ml-[71%] -mt-[1.7em] bg-[#2F363D] rounded-[12px] lg:block">
+      <div className="hidden  bg-gray w-[2em] h-[1.8em] absolute text-2xl ml-[71%] -mt-[1.7em] bg-[#2F363D] rounded-[12px] lg:block xl:ml-[72.5%]">
         <span className="material-symbols-outlined text-[#13B497]  ml-3 mt-2">
           chat
         </span>
@@ -51,8 +51,8 @@ export default function Navbar() {
           redeem
         </span>
       </div>
-      <div className="absolute w-[10px] h-[10px] rounded-full bg-[#D9B75F] mx-[73%] -my-[2.6em] xs:mx-[70%] sm:mx-[67%] md:mx-[67.5%] lg:mx-[68.5%] xl:mx-[68%] 2xl:mx-[67.5%] "></div>
-      <div className="absolute w-[10px] h-[10px] rounded-full bg-[#D9B75F] mx-[74.5%] -my-[2.6em] hidden lg:block  xl:mx-[73.5%] 2xl:mx-[73.5%] "></div>
+      <div className="absolute w-[10px] h-[10px] rounded-full bg-[#D9B75F] mx-[73%] -my-[2.6em] xs:mx-[70%] sm:mx-[67%] md:mx-[67.5%] lg:mx-[68.5%] xl:mx-[71%] 2xl:mx-[67.5%] "></div>
+      <div className="absolute w-[10px] h-[10px] rounded-full bg-[#D9B75F] mx-[74.5%] -my-[2.6em] hidden lg:block  xl:mx-[75.5%] 2xl:mx-[73.5%] "></div>
       <div className="absolute w-[10px] h-[10px] rounded-full bg-[#647280] mx-[80.5%] -my-[2.6em] hidden lg:block xl:mx-[79.5%] 2xl:mx-[79.5%] "></div>
       <div className="flex">
         <div className="absolute z-10 w-[2.5em] h-[2em] bg-[#C4C4C4] ml-[80%] -mt-[2.2em] rounded-[12px] sm:ml-[83%] lg:ml-[84.5%] xl:ml-[86.5%]"></div>
