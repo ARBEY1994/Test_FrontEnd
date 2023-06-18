@@ -26,7 +26,7 @@ export default function Navbar() {
           placeholder=" Search here"
           style={{ caretColor: "#13B497", paddingLeft: "2%" }}
         />
-        <span className="material-symbols-outlined absolute text-[#A4A4A4] -mt-[1.3em] ml-[50%] hidden lg:block">
+        <span className="material-symbols-outlined hidden lg:block absolute text-[#A4A4A4] -mt-[1.3em] ml-[50%] ">
           search
         </span>
       </div>

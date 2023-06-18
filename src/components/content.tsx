@@ -22,10 +22,10 @@ export default function MyChart() {
 
   return (
     <div className="relative w-[90%] h-0 mx-auto rounded-lg lg:w-[45%] lg:mx-[5%] ">
-      <p className="absolute text-[#FFFFFF] z-10 ml-[75%] mt-[2em] text-xs lg:py-5 lg:px-0 lg:ml-[81%]">
+      <p className="absolute text-[#FFFFFF] z-10 ml-[75%] mt-[2em] text-xs   lg:ml-[81%]">
         this week
       </p>
-      <div className="absolute ml-[92.5%] z-10 mt-[2.5em] text-xs lg:py-[1.5em] lg:px-0 lg:ml-[90%]">
+      <div className="absolute ml-[92.5%] z-10 mt-[2.5em] text-xs  lg:ml-[90%]">
         <svg
           width="9"
           height="5"
